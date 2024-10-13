@@ -18,7 +18,6 @@ end
 
 function weapon(weapon)
     local amount = exports.ox_inventory:GetItemCount(weapon)
-    kye stinks
     lib.registerContext({
         title = 'Weapon Options',
         id = 'hx_armory:menus:weaponOptions',
