@@ -16,5 +16,5 @@ It has been ready for a while but has only just came out now
 - Password lock on swat armory
 - Armour system built into both armorys
 
-:GitHubMarkea2971cee799removebgpr: [Download](https://github.com/Haxalott/hx_armory)
+[Download](https://github.com/Haxalott/hx_armory)
 :movie_camera: Video - (Not available yet)
