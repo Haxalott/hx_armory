@@ -1,10 +1,20 @@
-  HX_ARMORY
+HX_ARMORY - My biggest public release yet
+It has been ready for a while but has only just came out now
 
-  A armory script using ox_lib, ox_inventory and es_extended.
-  No preview, as this was meant to be a private project.
-  Join my discord: https://discord.gg/6fNy49PZbC
+## Dependencies
+- [ox_target](https://github.com/overextended/ox_target)
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_inventory](https://github.com/overextended/ox_inventory)
+- [es_extended](https://github.com/esx-framework/esx_core) 
 
-  You can infinitely add items and weapons to the menu as your heart desires.
-  
+## Features
+- Limits on the amount of items you have out at one time
+- Discord logs for practically everything
+- Police job check at every step of the way to make sure no cheaters get passed
+- Icons based on inventory images
+- Swat armory and Police armory
+- Password lock on swat armory
+- Armour system built into both armorys
 
-asd
+:GitHubMarkea2971cee799removebgpr: [Download](https://github.com/Haxalott/hx_armory)
+:movie_camera: Video - (Not available yet)
