@@ -2,7 +2,7 @@ Config = {}
 
 Config.Armory = {
     Weapons = {
-        { weapon = 'weapon_glock22', label = 'Glock 22', },
+        { weapon = 'weapon_pistol', label = 'PD Pistol', },
         { weapon = 'weapon_stungun', label = 'Taser' },
         { weapon = 'weapon_nightstick', label = 'Baton' }
     },
@@ -22,7 +22,7 @@ Config.Armory = {
 Config.SwatPassword = 'CHANGE_ME'
 Config.Swat = {
     Weapons = {
-        { weapon = 'weapon_hk416', label = 'HK416 Rifle' },
+        { weapon = 'weapon_carbinerifle', label = 'Carbine Rifle' },
     },
     Shop = {
         { item = 'ammo-rifle', label = '5.56x45', max = 400 },
